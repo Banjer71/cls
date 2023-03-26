@@ -1,6 +1,6 @@
 {
   "name": "@banjer71/cls",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "repository": "https://github.com/Banjer71/cls",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
