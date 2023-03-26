@@ -1,5 +1,5 @@
 {
-  "name": "@davide-component-library",
+  "name": "davide-component-library",
   "version": "1.0.2",
   "repository": "https://github.com/Banjer71/cls",
   "main": "lib/index.js",
